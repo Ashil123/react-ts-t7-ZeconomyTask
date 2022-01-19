@@ -1,0 +1,142 @@
+[
+  {
+    "type": "directory",
+    "name": "feather/",
+    "contents": [
+      {
+        "type": "file",
+        "name": "pom.xml"
+      },
+      {
+        "type": "directory",
+        "name": "src",
+        "contents": [
+          {
+            "type": "directory",
+            "name": "main",
+            "contents": [
+              {
+                "type": "directory",
+                "name": "java",
+                "contents": [
+                  {
+                    "type": "directory",
+                    "name": "org",
+                    "contents": [
+                      {
+                        "type": "directory",
+                        "name": "codejargon",
+                        "contents": [
+                          {
+                            "type": "directory",
+                            "name": "feather",
+                            "contents": [
+                              {
+                                "type": "file",
+                                "name": "FeatherException.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "Feather.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "Key.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "Provides.java"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "test",
+            "contents": [
+              {
+                "type": "directory",
+                "name": "java",
+                "contents": [
+                  {
+                    "type": "directory",
+                    "name": "org",
+                    "contents": [
+                      {
+                        "type": "directory",
+                        "name": "codejargon",
+                        "contents": [
+                          {
+                            "type": "directory",
+                            "name": "feather",
+                            "contents": [
+                              {
+                                "type": "file",
+                                "name": "AmbiguousModuleTest.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "CircularDependencyTest.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "DependencyTest.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "FieldInjectionTest.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "ModuleOverrideTest.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "NamedDependencyTest.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "PojoProvidedThroughModuleTest.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "PolymorphicDependencyTest.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "ProviderInjectionTest.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "QualifiedDependencyTest.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "SingletonTest.java"
+                              },
+                              {
+                                "type": "file",
+                                "name": "TransitiveDependencyTest.java"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
